@@ -61,8 +61,8 @@ Player consistency analysis
 Match prediction model
 Advanced KPIs (impact player, partnerships)
 Real-time data integration
-📜 License
 
+📜 License
 This project is for educational and portfolio purposes.
 
 🙌 Author
